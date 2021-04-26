@@ -1,0 +1,40 @@
+{
+    "mongo_url": "mongodb+srv://eitaometrix:8pochoclosblancos@cluster0.tx2qu.mongodb.net/test",
+    "server": {
+        "id": "818867193714311230",
+        "invite": "https://discord.gg/AJnqXmGaHK",
+        "mod_log_id": "818869190231457823",
+        "like_log": "818869218321498162",
+        "admin_user_ids": [547953269918400515],
+        "role_ids": {
+            "bot": "818870354683494461",
+            "unverified": "818870444957761596",
+            "verified": "818869519954214951",
+            "bot_developer": "818869592142381116",
+            "bot_verifier": "818869663034507285"
+        }
+    },
+    "bot_options": {
+        "bot_tags": [],
+        "max_bot_tags": 6,
+        "max_owners_count": 4,
+        "max_summary_length": 120,
+        "min_description_length": 200,
+        "max_description_length": 500
+    },
+    "discord_client": {
+        "id": "818863252653473812",
+        "secret": "bT3XDLtucMdkx4lFZ6vzYO0BrtVuZYdT",
+        "token": "ODE4ODYzMjUyNjUzNDczODEy.YEeP1Q.wHe1wAf2-ZiBmpp3KpTFxYHVXWg",
+        "prefix": "e!"
+    },
+    "web": {
+        "domain_with_protocol": "https://eitanlist.glitch.me",
+        "port": 0,
+        "ratelimit": 30,
+        "recaptcha_v2": {
+            "site_key": "6LcHNK8aAAAAACAa4poyx9_RUL4yiTI61rzrPcCf",
+            "secret_key": "6LcHNK8aAAAAAAoL-cKchQzWBD3D9-1JsKxH22yh"
+        }
+    }
+}
